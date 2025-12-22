@@ -1,8 +1,8 @@
 [
   {
     "package" : "com.art.string", 
-    "versionName" : "1.3",
-    "versionCode" : 16,
-    "notice" : "New Version Available, Please Update!" 
+    "versionName" : "1.4",
+    "versionCode" : 17,
+    "notice" : "Colorful String Art is added in the new version, Please Update!" 
   }
 ]
